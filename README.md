@@ -2,7 +2,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: P
+* **Person or organization developing model**: Zaurez Hamid, Senay Kefela, Suyash Shrivastava, Yaxin(Janet) Zhuang
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: Apache-2.0 License

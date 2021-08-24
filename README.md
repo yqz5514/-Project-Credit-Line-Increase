@@ -37,3 +37,8 @@
   * Training rows: 15,000
   * Validation rows: 7,500
 
+### Test Data
+* **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
+* **Number of rows in test data**: 7,500
+* **State any differences in columns between training and test data**: None
+

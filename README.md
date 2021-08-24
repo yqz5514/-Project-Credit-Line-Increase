@@ -42,3 +42,6 @@
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
+### Model details:
+### Quantitative analysis:
+### Ethical considerations:

@@ -6,8 +6,7 @@
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: Apache-2.0 License
-* **Model implementation code**: https://colab.research.google.com/github/yqz5514/6301/blob/main/group13janet.ipynb
-
+* **Model implementation code**: [Group13_DNSC_6301_Project.ipynb](Group13_DNSC_6301_Project.ipynb)
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
 * **Primary intended users**: Students in GWU DNSC 6301 bootcamp.

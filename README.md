@@ -2,11 +2,11 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Zaurez Hamid, Senay Kefela, Suyash Shrivastava, Yaxin(Janet) Zhuang
+* **Person or organization developing model**: Zaurez Hamid (zaurez@gwu.edu), Senay Kefela (senayk@gwu.edu), Suyash Shrivastava (suyash65@gwu.edu), Yaxin(Janet) Zhuang (yxzhuang27@gwu.edu)
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: Apache-2.0 License
-* **Model implementation code**:
+* **Model implementation code**: https://colab.research.google.com/github/yqz5514/6301/blob/main/group13janet.ipynb
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
@@ -43,5 +43,17 @@
 * **State any differences in columns between training and test data**: None
 
 ### Model details:
+* **Columns used as inputs in the final model**: 
+* **Column(s) used as target(s) in the final model**:
+* **Type of model**:
+* **Software used to implement the model**:
+* **Version of the modeling software**:
+* **Hyperparameters or other settings of your model**:
 ### Quantitative analysis:
+* **Metrics used to evaluate your final model**: 
+* **State the final values of the metrics for all data: training, validation, and test data**: 
+* **Provide any plots related to your data or final model**: 
 ### Ethical considerations:
+* **Describe potential negative impacts of using your model:**: 
+* **Describe potential uncertainties relating to the impacts of using your model:**: 
+* **Describe any unexpected or results**: 

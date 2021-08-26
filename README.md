@@ -54,6 +54,10 @@
 * **State the final values of the metrics for all data: training, validation, and test data**: 
 * **Provide any plots related to your data or final model**: 
 ### Ethical considerations:
-* **Describe potential negative impacts of using your model:**: 
-* **Describe potential uncertainties relating to the impacts of using your model:**: 
-* **Describe any unexpected or results**: 
+* **Describe potential negative impacts of using your model:** 
+  * Math or software problems:
+  * Real-world risks:
+* **Describe potential uncertainties relating to the impacts of using your model:**
+  * Math or software problems
+  * Real-world risks:
+* **Describe any unexpected or results**

@@ -61,7 +61,7 @@
   * **Black-to-White AIR**: 0.81
   * **Female-to-Male AIR**: 1.04
   * **Hispanic-to-White AIR**: 0.83
-* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR**: ![iteration plot.JPG](https://github.com/[yqz5514]/[DNSC6301-Group-Project-by-Group-13]/blob/[main]/image.jpg?raw=true)
+* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR**: [iteration plot.JPG](iteration plot.JPG)
 ### Ethical considerations:
 * **Describe potential negative impacts of using your model:** 
   * Math or software problems:

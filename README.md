@@ -43,15 +43,25 @@
 
 ### Model details:
 * **Columns used as inputs in the final model**: 
-* **Column(s) used as target(s) in the final model**:
-* **Type of model**:
-* **Software used to implement the model**:
-* **Version of the modeling software**:
-* **Hyperparameters or other settings of your model**:
+  * Limit_BAL
+  * PAY_0, PAY_2, PAY_3, PAY_4, PAY_5, PAY_6
+  * BILL_AMT1, BILL_AMT2, BILL_AMT3, BILL_AMT4, BILL_AMT5, BILL_AMT6
+  * PAY_AMT1, PAY_AMT2, PAY_AMT3, PAY_AMT4, PAY_AMT5, PAY_AMT6
+* **Columns used as targets in the final model**: DELINQ_NEXT
+* **Type of Model**: Supervised Learning - Decision Tree Model
+* **Software used to train the Model**: Python via Google Colab
+* **Version of the Software used to train the Model**: Python 3.6.9
+* **Hyperparameters or other settings of the model**: ***TO FILL OUT***
 ### Quantitative analysis:
-* **Metrics used to evaluate your final model**: 
-* **State the final values of the metrics for all data: training, validation, and test data**: 
-* **Provide any plots related to your data or final model**: 
+* **Metrics used to evaluate the model and final figures**:
+  * **Training AUC**: 0.78
+  * **Validation AUC**: 0.75
+  * **Test AUC**: 0.74
+  * **Asian-to-White AIR**: 1.02
+  * **Black-to-White AIR**: 0.81
+  * **Female-to-Male AIR**: 1.04
+  * **Hispanic-to-White AIR**: 0.83
+* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR**: iteration plot.JPG ![iteration plot.JPG](https://github.com/[yqz5514]/[DNSC6301-Group-Project-by-Group-13]/blob/[branch]/iteration plot.jpg?raw=true)
 ### Ethical considerations:
 * **Describe potential negative impacts of using your model:** 
   * Math or software problems:

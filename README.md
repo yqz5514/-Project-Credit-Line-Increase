@@ -51,7 +51,7 @@
 * **Type of Model**: Supervised Learning - Decision Tree Model
 * **Software used to train the Model**: Python via Google Colab
 * **Version of the Software used to train the Model**: Python 3.6.9
-* **Hyperparameters or other settings of the model**: ***TO FILL OUT***
+* **Hyperparameters or other settings of the model**: ***NEED TO FILL OUT***
 ### Quantitative analysis:
 * **Metrics used to evaluate the model and final figures**:
   * **Training AUC**: 0.78
@@ -63,10 +63,11 @@
   * **Hispanic-to-White AIR**: 0.83
 * **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR**: ![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/iterationplot.JPG)
 ### Ethical considerations:
-* **Describe potential negative impacts of using your model:** 
-  * Math or software problems:
-  * Real-world risks:
-* **Describe potential uncertainties relating to the impacts of using your model:**
-  * Math or software problems
-  * Real-world risks:
-* **Describe any unexpected or results**
+* **Potential negative impacts of the model**:
+  * **Math/Software Problems**: ________***NEED TO FILL OUT***
+  * **Real world risks**: ________***NEED TO FILL OUT**
+* **Potential uncertainties relating to the impact of using the model**:
+  * **Math/Software Problems**: ________***NEED TO FILL OUT***
+  * **Real world risks**: ________***NEED TO FILL OUT**
+* **Other unexpected results**: 
+  * ____ ***NEED TO FILL OUT***

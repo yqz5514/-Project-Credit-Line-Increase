@@ -49,9 +49,9 @@
   * PAY_AMT1, PAY_AMT2, PAY_AMT3, PAY_AMT4, PAY_AMT5, PAY_AMT6
 * **Columns used as targets in the final model**: DELINQ_NEXT
 * **Type of Model**: Supervised Learning - Decision Tree Model
-* **Software used to train the Model**: Python via Google Colab
-* **Version of the Software used to train the Model**: Python 3.6.9
-* **Hyperparameters or other settings of the model**: ***NEED TO FILL OUT***
+* **Software used to train the Model**: Python, Google Colab
+* **Version of the Software used to train the Model**: ????
+* **Hyperparameters or other settings of the model**: ????
 ### Quantitative analysis:
 * **Metrics used to evaluate the model and final figures**:
   * **Training AUC**: 0.78

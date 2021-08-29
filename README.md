@@ -52,6 +52,7 @@
 * **Software used to train the Model**: Python, Google Colab
 * **Version of the Software used to train the Model**: ????
 * **Hyperparameters or other settings of the model**: ccp_alpha=0.0, class_weight=None, criterion='gini', max_depth=6, max_features=None, max_leaf_nodes=None, min_impurity_decrease=0.0, min_impurity_split=None, min_samples_leaf=1, min_samples_split=2, min_weight_fraction_leaf=0.0, presort='deprecated', random_state=12345, splitter='best'
+
 ### Quantitative analysis:
 * **Metrics used to evaluate the model and final figures**:
   * **Training AUC**: 0.78
@@ -61,9 +62,16 @@
   * **Black-to-White AIR**: 0.81
   * **Female-to-Male AIR**: 1.04
   * **Hispanic-to-White AIR**: 0.83
-* **Heat Map:** ![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/heat%20map.png)
-* **Varible Importance:** ![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/variable%20importance.png)
-* **[Final model]Iteration Plot of Training AUC, Validation AUC and Hispanic-to-White AIR**: ![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/iterationplot.JPG)
+* **Heat Map:** 
+
+![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/heat%20map.png)
+* **Varible Importance:** 
+
+![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/variable%20importance.png)
+* **[Final model]Iteration Plot of Training AUC, Validation AUC and Hispanic-to-White AIR**: 
+
+![download](https://github.com/yqz5514/DNSC6301-Group-Project-by-Group-13/blob/main/iterationplot.JPG)
+
 ### Ethical considerations:
 * **Potential negative impacts of the model**:
   * **Math/Software Problems**: ________***NEED TO FILL OUT***

@@ -80,4 +80,4 @@
   * **Math/Software Problems**: Several metrics being used to calculate credit limit, the metrics importance level when calculating the credit limit can lead to bias as just having one low metric can make someones credit limit low
   * **Real world risks**: People will be denied an increase in their credit limit and their personal life will be detrimentally impacted as it would directly affect their spending limit and budget.
 * **Other unexpected results**: 
-  * The model still has bias and hard to fix it.
+  * The model still has bias and hard to fix it base on the dataset.

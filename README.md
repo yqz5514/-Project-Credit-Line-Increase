@@ -75,9 +75,9 @@
 ### Ethical considerations:
 * **Potential negative impacts of the model**:
   * **Math/Software Problems**: ________***NEED TO FILL OUT***
-  * **Real world risks**: ________***NEED TO FILL OUT**
+  * **Real world risks**: People will not be able to get their credit limit increased due to several biased decisions which is not good.
 * **Potential uncertainties relating to the impact of using the model**:
   * **Math/Software Problems**: ________***NEED TO FILL OUT***
-  * **Real world risks**: ________***NEED TO FILL OUT**
+  * **Real world risks**: People will be denied an increase in their credit limit and their personal life will be detrimentally impacted as it would directly affect their spending limit and budget.
 * **Other unexpected results**: 
   * ____ ***NEED TO FILL OUT***

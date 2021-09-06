@@ -50,7 +50,7 @@
 * **Columns used as targets in the final model**: DELINQ_NEXT
 * **Type of Model**: Supervised Learning - Decision Tree Model
 * **Software used to train the Model**: Python, Google Colab
-* **Version of the Software used to train the Model**: Python 3.6.9
+* **Version of the Software used to train the Model**: Python 3.6.9, Sklearn _Version_
 * **Hyperparameters or other settings of the model**: ccp_alpha=0.0, class_weight=None, criterion='gini', max_depth=6, max_features=None, max_leaf_nodes=None, min_impurity_decrease=0.0, min_impurity_split=None, min_samples_leaf=1, min_samples_split=2, min_weight_fraction_leaf=0.0, presort='deprecated', random_state=12345, splitter='best'
 
 ### Quantitative analysis:
